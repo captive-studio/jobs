@@ -989,11 +989,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 26.6.0
-  resolution: "@types/node@npm:26.6.0"
+  version: 26.6.1
+  resolution: "@types/node@npm:26.6.1"
   dependencies:
     undici-types: "npm:~8.9.0"
-  checksum: 10c0/147a3ad48c8deab7ba55b323be868b5ff9df950803a7a61662f70a50e703739c98041b68142363a7eef7a1e4b61b5d5c3d802cf2d9982125eecebe768d677bb9
+  checksum: 10c0/c90d3db40e7c9c92f0854ecdcaabd9c1923b7e2a43cf2c97cf147a5aba7e18a1c80034088edfb1bb2153ceffdd87be7ce0a256b80ec7cd92e619c564133ae5fe
   languageName: node
   linkType: hard
 
@@ -1312,11 +1312,11 @@ __metadata:
   linkType: hard
 
 "baseline-browser-mapping@npm:^2.11.23":
-  version: 2.11.23
-  resolution: "baseline-browser-mapping@npm:2.11.23"
+  version: 2.11.24
+  resolution: "baseline-browser-mapping@npm:2.11.24"
   bin:
     baseline-browser-mapping: dist/cli.cjs
-  checksum: 10c0/19ea2480d45823d25a94f848aab47f74882bb0715fb89fe11d82a1a470b856e56e6990f67401da94ad0f3c3bdac0aaea59310968526744c7e71ee441bdffe5cb
+  checksum: 10c0/f6895b675e0e653dc62c9885c6d13b16d19ccb8bc83806e82258ed2759ee13c2b7221e8953dac231b43ee9bc3cc1810e0dc4c3b784d7e0d827cd0a2c39fcd820
   languageName: node
   linkType: hard
 
@@ -1565,9 +1565,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.427":
-  version: 1.5.428
-  resolution: "electron-to-chromium@npm:1.5.428"
-  checksum: 10c0/714cdc7bd2153a4ab90773d06fed65370c74dbd481502d6f9a61cd4c0c64630b57b6c3faccc3fb5578c7fedf6e82d296f18c8d0cf334c9f9b2746a7c7fabbdd6
+  version: 1.5.429
+  resolution: "electron-to-chromium@npm:1.5.429"
+  checksum: 10c0/2ba4e16c6450212dce5a3ef531013f130e7d9b6e5275f3caf5e06ef68402ceeb32852d0df46edcc0835bd74bf2a000772dd8a9ccae48de9dca648e0d84e8556f
   languageName: node
   linkType: hard
 
